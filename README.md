@@ -1,5 +1,7 @@
-# True-MVP
+#My Projects
 
-Cameron Emamian
+My name is Cameron Emamian, I am a student at Chapman University studying Data Science expected to graduate in 2023. My main focus is in baseball analytics, so that is what most of these projects will likely be, along with some websites. Thanks for taking the time to look through these.
 
-This project was created on the basis of using finding a way to give value to players not using WAR. By taking the top qualified players from 4 separate seasons, I used Weighted Runs Created plus (wRC+) 
+## Project 1
+
+[True MVP](https://rpubs.com/Cam_Emamian/845417)
